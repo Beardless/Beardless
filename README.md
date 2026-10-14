@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bart 👋
 
-<!--
-**Beardless/Beardless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend / Full-stack Engineer with ~9 years shipping web and mobile products.
+Open to new roles — Warsaw or remote, B2B.
 
-Here are some ideas to get you started:
+- **Consensus** (2023–2026) — built the public API from scratch (NestJS), contributed to a ~200-component design system (Storybook), microfrontends with Module Federation, event-driven services (Kafka)
+- **Webinterpret, Jeppesen (Boeing), Schibsted** — cross-border e-commerce, aviation navigation-data tooling, SSR & performance work
+- **Asystent Ciąży** — co-founded a React Native pregnancy app, grew it from 0 to ~20k monthly users
+- **AI-native** — Claude Code daily; built Claude Code commands for automated MRs used across my team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript · React · React Native · Node.js · NestJS · GraphQL · Redux · Jest / RTL / Playwright / Cypress · GitLab CI · Argo CD
+
+📫 [LinkedIn](https://linkedin.com/in/bartlomiej-mikolajczuk) · bartlomiej.mikolajczuk@outlook.com
